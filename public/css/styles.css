@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+    background-color: #EAF6F6;
+    overflow-x: hidden;
+  }
+
+  /* Footer */
+  
+  footer {
+  
+    width: 100%;
+    text-align: center;
+    height: 60px;
+    background-color: #EAF6F6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  footer p {
+    margin-top: 25px;
+    font-size: 1rem;
+    color: #000;
+  }
+  
+  /* Nav Bar */
+  
+  .navbar{
+    height: 5rem;
+    margin: 0 5% 0 5%;
+    
+  }
+  
+  .navbar-brand{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 1.8rem;
+    color: #66BFBF !important;
+  }
+  
+  .nav-link{
+    color: #66BFBF !important;
+    font-size: 1.2rem;
+  }
